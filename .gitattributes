@@ -1,0 +1,5 @@
+Data/** filter=lfs diff=lfs merge=lfs -text
+Chapter10/mosesdecoder/* filter=lfs diff=lfs merge=lfs -text
+Chapter10/opus-mt-en-de-finetuned-en-to-de filter=lfs diff=lfs merge=lfs -text
+Chapter10/orig filter=lfs diff=lfs merge=lfs -text
+Chapter10/prep filter=lfs diff=lfs merge=lfs -text
